@@ -1,0 +1,5 @@
+[core]
+    remote = b2remote
+['remote "b2remote"']
+    url = s3://rohan-da24b049-aiops-q4/dvcstore
+    endpointurl = https://s3.us-west-004.backblazeb2.com
