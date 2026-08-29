@@ -1,0 +1,5 @@
+outs:
+- md5: 89ef0fceb152c9bb5dffeef9e4d82a25
+  size: 18276226
+  hash: md5
+  path: mnist.csv
